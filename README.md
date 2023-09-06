@@ -4,7 +4,7 @@
 
 ### Project Description 
 
-In this project we are gonna apply Centrality Measures from "F. Bonchi, G. De Francisci Morales, M. Riondato. Centrality Measures on Big Graphs: Exact, Approximated, and Distributed Algorithms. In *25th International World Wide Web Conference, Montreal, 2016*" to a Graph.
+In this project we are gonna apply two centrality measures from "F. Bonchi, G. De Francisci Morales, M. Riondato. Centrality Measures on Big Graphs: Exact, Approximated, and Distributed Algorithms. In *25th International World Wide Web Conference, Montreal, 2016*" to a Graph.
 
 We will manipulate data from IMDb Datasets using AWK programming language to build a big graph where each node represent an Actor/Actress and two node are linked by an edge if and only if the actors partecipated in the same film.
 
