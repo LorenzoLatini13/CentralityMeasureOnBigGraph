@@ -21,4 +21,4 @@ The results from the first strategy will be satisfying while those from the seco
     - awk -F"\t" '{print $1"\t"$5}' title.basics.tsv > title.basics1.tsv
     - awk -F"\t" 'NR>1 {print $1"\t"$3"\t"$4}' title.principals.tsv > title.principals1.tsv
     - awk -F"\t" 'NR>1{print $1"\t"$2"\t"$5}' Old.name.basics.tsv > name.basics.1.tsv
-3. Run "CentralityMeasuresOnGraphs.cpp
+3. Run "CentralityMeasuresOnGraphs.cpp"
