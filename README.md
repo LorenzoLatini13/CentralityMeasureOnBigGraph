@@ -8,7 +8,9 @@ In this project we are gonna apply two centrality measures from "F. Bonchi, G. D
 
 We will manipulate data from IMDb Datasets using AWK programming language to build a big graph where each node represent an Actor/Actress and two node are linked by an edge if and only if the actors partecipated in the same film.
 
-Finally, we will apply two strategies to a sub-graph built starting from American actors: the former will be an Exact Centrality Measure while the latter will be a Random Centrality Measure.
+Our objective is to identify the actors who have collaborated with the highest number of other actors.
+
+To do so we will apply two strategies to a sub-graph built starting from American actors: the former will be an Exact Centrality Measure while the latter will be a Random Centrality Measure.
 
 The results from the first strategy will be satisfying while those from the second strategy strongly depend on computational power.
 
